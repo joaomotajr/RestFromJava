@@ -1,5 +1,0 @@
-br\gov\caixa\api\controller\Initialize.class
-br\gov\caixa\api\service\GetLdapDataEmployee.class
-br\gov\caixa\api\result\PersonGroupsDto.class
-br\gov\caixa\api\service\UpdateEmployee.class
-br\gov\caixa\api\result\LdapResult.class
